@@ -3,8 +3,11 @@ MANIFEST.in
 README.txt
 development.ini
 production.ini
+readme.txt.txt
 setup.py
 hello_pyramid/__init__.py
+hello_pyramid/helloworld.py
+hello_pyramid/helloworldkk.py
 hello_pyramid/tests.py
 hello_pyramid/views.py
 hello_pyramid.egg-info/PKG-INFO
@@ -14,6 +17,12 @@ hello_pyramid.egg-info/entry_points.txt
 hello_pyramid.egg-info/not-zip-safe
 hello_pyramid.egg-info/requires.txt
 hello_pyramid.egg-info/top_level.txt
+hello_pyramid/.idea/encodings.xml
+hello_pyramid/.idea/misc.xml
+hello_pyramid/.idea/modules.xml
+hello_pyramid/.idea/vcs.xml
+hello_pyramid/.idea/workspace.xml
+hello_pyramid/.idea/scopes/scope_settings.xml
 hello_pyramid/static/pyramid-16x16.png
 hello_pyramid/static/pyramid.png
 hello_pyramid/static/theme.css
